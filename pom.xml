@@ -3,7 +3,7 @@
        
         <groupId>org.atomspace.probier</groupId>
         <artifactId>probier-app</artifactId>
-        <version>1.0.1</version>
+        <version>1.0.2-SNAPSHOT</version>
         <packaging>jar</packaging>
        
         <name>probier-app</name>
@@ -24,7 +24,7 @@
             <url>https://github.com/eddi888/probier-project-for-mvn-release</url>
             <connection>scm:git:http://github.com/eddi888/probier-project-for-mvn-release.git</connection>
             <developerConnection>scm:git:http://github.com/eddi888/probier-project-for-mvn-release.git</developerConnection>
-            <tag>probier-app-1.0.1</tag>
+            <tag>HEAD</tag>
         </scm>
        
         <distributionManagement>
